@@ -11,4 +11,4 @@ The project utilizes a relational database design. Below is the Entity Relations
 - *SQL Scripts*: Contains the data modeling and schema design (Fact and Dimension tables).
 - *Dashboard Report*: Available in Traffic Analytics.pdf.
 - *Tools*: SQL Server (T-SQL), Power BI.
-- 
+  *Power BI Source*: [Download traffics.pbix](traffics.pbix)
